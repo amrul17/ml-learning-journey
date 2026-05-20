@@ -1,0 +1,12 @@
+# Data Manipulation
+pandas
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Environment Management
+ipykernel
