@@ -47,7 +47,7 @@ The dataset contains 19,735 observations and 29 features. No missing values or d
 * Feature engineering is necessary to extract useful temporal patterns from the datetime feature.
 * Valid outliers are present in the dataset, making RobustScaler an appropriate preprocessing technique.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correlation-heatmap.png)
 
 ---
 
