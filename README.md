@@ -1,27 +1,27 @@
-# 🚀 ML Learning Journey
+# ML Learning Journey
 
 A personal learning repository documenting my progression 
 from classical Machine Learning to Deep Learning and AI Agents.
 
 ---
 
-## 👤 About Me
+## About Me
 I'm an aspiring AI/ML Engineer passionate about building 
 intelligent systems, starting from the fundamentals and 
 working my way up to cutting-edge AI technologies.
 
 ---
 
-## 🎯 Goal
+## Goal
 To build a strong foundation in AI/ML by learning 
 progressively and understanding not just how to use the tools, 
 but why they work.
 
 ---
 
-## 🗺️ Learning Roadmap
+## Learning Roadmap
 
-### 1️⃣ Machine Learning
+### Machine Learning
 > Classical ML algorithms, feature engineering, 
 > model evaluation, and handling real-world data challenges.
 
@@ -30,7 +30,7 @@ but why they work.
 - Model Evaluation & Selection
 - Handling Imbalanced Data
 
-### 2️⃣ Deep Learning
+### Deep Learning
 > Neural networks, computer vision, and natural 
 > language processing.
 
@@ -39,7 +39,7 @@ but why they work.
 - Recurrent Neural Networks (RNN/LSTM)
 - Transfer Learning & Fine-tuning
 
-### 3️⃣ AI Agent
+### AI Agent
 > Building intelligent, autonomous systems powered by LLMs.
 
 - Retrieval-Augmented Generation (RAG)
@@ -48,7 +48,7 @@ but why they work.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python
 - **ML/DL:** Scikit-learn, TensorFlow / PyTorch
 - **AI Agent:** LangChain, LangGraph
@@ -57,4 +57,4 @@ but why they work.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
