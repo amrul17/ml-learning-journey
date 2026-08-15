@@ -80,7 +80,7 @@ Since the current camera data is unlabeled, standard object detection metrics su
 
 Real-time video result:
 
-<video src="output/output.mp4" controls width="800"></video>
+[Watch YOLOv8n video output](output/output.mp4)
 
 Screenshot of the result:
 
