@@ -1,0 +1,4 @@
+opencv_python==5.0.0.93
+roboflow==1.4.1
+torch==2.6.0+cu124
+ultralytics==8.4.115
