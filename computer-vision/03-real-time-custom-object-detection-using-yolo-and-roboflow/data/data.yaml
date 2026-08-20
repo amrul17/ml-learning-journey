@@ -1,0 +1,13 @@
+names:
+- Poco-F1
+- Poco-F7
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: poco-f1-vs-f7
+  url: https://universe.roboflow.com/deankt-fans/poco-f1-vs-f7/dataset/2
+  version: 2
+  workspace: deankt-fans
+test: ../test/images
+train: ../train/images
+val: ../valid/images
