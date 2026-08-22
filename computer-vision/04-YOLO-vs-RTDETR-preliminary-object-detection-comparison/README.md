@@ -110,7 +110,7 @@ In addition, **FPS and inference latency were not formally measured** in this ex
 
 ### Screenshot of the Result (YOLOv8n)
 
-![YOLOv8 Real-Time Detection](assets/yolov8n.png)
+![YOLOv8 Real-Time Detection](assets/yolov8n_output.png)
 
 ### Screenshot of the Result (RT-DETR)
 
