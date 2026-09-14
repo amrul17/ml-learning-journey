@@ -1,0 +1,6 @@
+faiss==1.5.3
+langchain_text_splitters==1.1.2
+numpy==2.5.3
+ollama==0.6.2
+pypdf==6.18.1
+sentence_transformers==6.0.1
