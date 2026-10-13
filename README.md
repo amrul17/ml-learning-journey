@@ -42,23 +42,6 @@ I am a Chemical Engineer with one year of experience in a nickel smelter, now bu
 
 ---
 
-## Results Snapshot
-
-Key results from selected projects. I report the limitation next to each result on purpose, because a number without its context can mislead.
-
-| Project | Approach | Key result | Note |
-|---|---|---|---|
-| Industrial product counting | YOLOv8n vs RT-DETR | YOLOv8n: precision 0.988, recall 1.000, mAP50 0.995; counted all 17 products in the test video | 40-image dataset, single-camera setup |
-| Industrial defect segmentation | U-Net from scratch (PyTorch) | Dice 0.708, IoU 0.548 | Measured on one validation image; 36-image dataset |
-| YOLO vs RT-DETR comparison | Pretrained COCO weights | YOLOv8n showed higher confidence on shared objects | Qualitative only; confidence is not accuracy |
-| Transfer learning benchmark | 10 architectures, identical settings | ResNet50 best, 100% test accuracy before and after fine-tuning | Only 19 test images |
-| Traffic volume forecasting | Hist Gradient Boosting | MAE 257.16, R² 0.9496 (Linear Regression R² 0.1943) | Sequential split to prevent data leakage |
-| CO sensor calibration | CatBoost | MAE 0.2913, R² 0.8923 | Gap to Random Forest is small (MAE 0.2933) |
-| TikTok topic discovery | BERTopic | 24 topics plus an outlier group from 493 comments | Unsupervised; no ground-truth labels |
-| RAG for private documents | BGE + FAISS + CrossEncoder + Llama 3.1 8B | Answered an in-document question; returned "I don't know" for an unrelated one | Two qualitative test cases |
-
----
-
 ## Computer Vision
 
 Real-time detection and industrial inspection use cases.
