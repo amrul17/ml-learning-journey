@@ -1,0 +1,49 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Indonesia",
+      "level": "S1",
+      "major": "Hubungan Internasional",
+      "graduation_year": 2025
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Konsultan Bisnis Dummy",
+      "title": "Magang Manajemen Bisnis",
+      "start": "2024-07",
+      "end": "2024-12",
+      "employment_type": null,
+      "summary": "Membantu riset pasar dan penyusunan laporan analisis kompetitor, Menyiapkan presentasi untuk klien dan rapat internal, Mengelola data proyek menggunakan Microsoft Excel"
+    },
+    {
+      "company": "Fakultas Hubungan Internasional",
+      "title": "Asisten Praktikum Hubungan Internasional",
+      "start": "2023-08",
+      "end": "2023-12",
+      "employment_type": null,
+      "summary": "Membimbing 30 mahasiswa dalam praktikum"
+    }
+  ],
+  "skills": [
+    "Riset pasar",
+    "Analisis data dasar",
+    "Presentasi",
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Kerja sama tim",
+    "Kepemimpinan"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

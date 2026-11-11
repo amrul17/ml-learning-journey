@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Teknik",
+      "level": "S1",
+      "major": "Teknik Elektro",
+      "graduation_year": 2020
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Industri Elektronik Dummy",
+      "title": "Maintenance Technician",
+      "start": "2021-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Melakukan perawatan preventif pada 40+ unit mesin produksi\nMenurunkan waktu henti mesin sebesar 18%\nMenangani perbaikan panel listrik dan sistem kontrol\nMenyusun laporan perawatan dan catatan suku cadang"
+    },
+    {
+      "company": "PT Pembangkit Dummy",
+      "title": "Kerja Praktik Teknisi",
+      "start": "2019-06",
+      "end": "2019-08",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Perawatan preventif",
+    "Instalasi kelistrikan",
+    "PLC dasar",
+    "Membaca gambar teknik",
+    "K3",
+    "Pemecahan masalah"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

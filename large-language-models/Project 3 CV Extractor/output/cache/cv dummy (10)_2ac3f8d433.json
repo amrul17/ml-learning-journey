@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Sains",
+      "level": "S1",
+      "major": "Kimia",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Lab Uji Mutu Dummy",
+      "title": "Analis Laboratorium",
+      "start": "2022-02",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Laboratorium Kimia Kampus",
+      "title": "Asisten Laboratorium",
+      "start": "2019-08",
+      "end": "2020-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Analisis kimia",
+    "Spektrofotometri",
+    "Titrasi",
+    "Penyiapan larutan",
+    "Keselamatan laboratorium",
+    "Pencatatan data"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

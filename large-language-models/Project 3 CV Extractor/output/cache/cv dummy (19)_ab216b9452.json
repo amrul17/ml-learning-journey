@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Banten",
+      "level": "S1",
+      "major": "Manajemen",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Manufaktur Sejahtera Abadi",
+      "title": "Purchasing Staff",
+      "start": "2022-04",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Mengelola pengadaan bahan baku dari 30+ pemasok\nMenurunkan biaya pembelian sebesar 8% melalui negosiasi harga\nMemantau tingkat persediaan dan mengajukan pemesanan ulang\nMenyusun laporan pembelian dan evaluasi kinerja pemasok"
+    },
+    {
+      "company": "PT Ekspedisi Cepat Dummy",
+      "title": "Staf Gudang dan Logistik",
+      "start": "2021-09",
+      "end": "2022-03",
+      "employment_type": null,
+      "summary": "Mencatat barang masuk dan keluar serta melakukan stock opname"
+    }
+  ],
+  "skills": [
+    "Pengadaan barang",
+    "Negosiasi pemasok",
+    "Manajemen persediaan",
+    "SAP dasar",
+    "Microsoft Excel",
+    "Analisis biaya"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

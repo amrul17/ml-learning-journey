@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Banten Teknik",
+      "level": null,
+      "major": "Teknik Mesin",
+      "graduation_year": 2020
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Baja Prima Dummy",
+      "title": "QC Staff",
+      "start": "2021-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "PT Otomotif Dummy",
+      "title": "Kerja Praktik Produksi",
+      "start": "2019-06",
+      "end": "2019-08",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Inspeksi kualitas",
+    "Alat ukur presisi",
+    "Membaca gambar teknik",
+    "Statistical process control dasar",
+    "ISO 9001 dasar",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

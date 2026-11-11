@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Mataram Raya",
+      "level": "S1",
+      "major": "Administrasi Bisnis",
+      "graduation_year": 2023
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Mitra Logistik Prima",
+      "title": "Staf Administrasi Operasional",
+      "start": "2023-09",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Mengelola surat-menyurat dan pengarsipan dokumen operasional, Memantau jadwal pengiriman dan memperbarui data di sistem, Menyusun laporan operasional mingguan untuk manajer, Berkoordinasi dengan vendor dan tim gudang"
+    },
+    {
+      "company": "CV Berkah Mandiri",
+      "title": "Magang Administrasi",
+      "start": "2023-01",
+      "end": "2023-06",
+      "employment_type": null,
+      "summary": "Membantu pengelolaan data pelanggan dan pembuatan invoice"
+    }
+  ],
+  "skills": [
+    "Administrasi perkantoran",
+    "Microsoft Office",
+    "Google Workspace",
+    "Manajemen waktu",
+    "Pengarsipan dokumen",
+    "Koordinasi lintas tim"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

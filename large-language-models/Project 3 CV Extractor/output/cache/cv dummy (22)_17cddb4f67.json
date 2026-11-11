@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Brawijaya Raya",
+      "level": "S1",
+      "major": "Statistika",
+      "graduation_year": 2023
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Solusi Bisnis Terpadu",
+      "title": "Junior Business Analyst",
+      "start": "2023-10",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Dinas Koperasi dan UKM Dummy",
+      "title": "Magang Administrasi dan Data",
+      "start": "2022-07",
+      "end": "2022-10",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Analisis data",
+    "Microsoft Excel (Pivot Table, Formula)",
+    "Google Sheets",
+    "Looker Studio",
+    "Penyusunan laporan",
+    "SQL dasar"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

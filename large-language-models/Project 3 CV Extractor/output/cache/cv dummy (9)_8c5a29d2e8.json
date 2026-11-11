@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Politeknik Dummy Pariwisata",
+      "level": "S1",
+      "major": "Perhotelan",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Hotel Pantai Indah Dummy",
+      "title": "Front Office Agent",
+      "start": "2022-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Resort Sunset Dummy",
+      "title": "Magang Perhotelan",
+      "start": "2020-07",
+      "end": "2020-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Layanan tamu",
+    "Sistem reservasi hotel",
+    "Bahasa Inggris aktif",
+    "Penanganan keluhan",
+    "Kerja shift",
+    "Microsoft Office"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate (aktif)"
+    }
+  ],
+  "extraction_notes": []
+}

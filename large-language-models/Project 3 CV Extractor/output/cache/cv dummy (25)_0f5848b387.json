@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Institut Dummy Seni dan Desain",
+      "level": "S1",
+      "major": "Desain Komunikasi Visual",
+      "graduation_year": 2022
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Kreatif Bali Dummy",
+      "title": "Graphic Designer",
+      "start": "2023-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Merancang 40+ materi visual per bulan untuk media sosial dan cetak, Mengembangkan panduan identitas visual untuk 8 klien, Berkoordinasi dengan tim konten dan pemasaran, Menyiapkan file final sesuai standar cetak dan digital"
+    },
+    {
+      "company": "Mandiri",
+      "title": "Freelance Designer",
+      "start": "2021-06",
+      "end": "2022-12",
+      "employment_type": null,
+      "summary": "Mengerjakan desain logo, poster, dan kemasan untuk UMKM lokal"
+    }
+  ],
+  "skills": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Figma",
+    "Tipografi dan tata letak",
+    "Branding",
+    "Canva"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

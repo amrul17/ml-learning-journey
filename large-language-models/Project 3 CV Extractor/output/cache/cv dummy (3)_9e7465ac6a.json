@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Sriwijaya Raya",
+      "level": "S1",
+      "major": "Sosiologi",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Energi Sumatera Dummy",
+      "title": "CSR Officer",
+      "start": "2022-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Lembaga Riset Sosial Dummy",
+      "title": "Asisten Peneliti Lapangan",
+      "start": "2020-07",
+      "end": "2021-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Pemberdayaan masyarakat",
+    "Penyusunan laporan program",
+    "Riset sosial",
+    "Komunikasi pemangku kepentingan",
+    "Pengelolaan anggaran",
+    "Microsoft Office"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

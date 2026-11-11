@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Sumatera",
+      "level": "S1",
+      "major": "Teknik Industri",
+      "graduation_year": 2020
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Wahana Distribusi Utama",
+      "title": "Sales Executive",
+      "start": "2022-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Mencapai rata-rata 115% dari target penjualan bulanan, Mengelola portofolio 60+ pelanggan korporat, Menyusun penawaran harga dan negosiasi kontrak, Menganalisis tren penjualan dan menyampaikan laporan mingguan"
+    },
+    {
+      "company": "PT Retail Cemerlang",
+      "title": "Sales Associate",
+      "start": "2020-09",
+      "end": "2021-12",
+      "employment_type": null,
+      "summary": "Melayani pelanggan dan mencapai target penjualan toko, Membantu pengelolaan stok dan display produk"
+    }
+  ],
+  "skills": [
+    "Penjualan B2B dan B2C",
+    "Negosiasi",
+    "CRM",
+    "Presentasi produk",
+    "Analisis penjualan",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

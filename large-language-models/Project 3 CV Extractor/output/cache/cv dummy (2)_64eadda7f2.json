@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Institut Dummy Pertanian",
+      "level": "S1",
+      "major": "Agribisnis",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Agro Makmur Dummy",
+      "title": "Field Sales Officer",
+      "start": "2022-02",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Mendampingi 120+ petani mitra di wilayah Jawa Barat, Meningkatkan penjualan sarana produksi pertanian sebesar 20%, Mengumpulkan data hasil panen dan menyusun laporan wilayah, Menyelenggarakan penyuluhan teknis bagi kelompok tani"
+    },
+    {
+      "company": "Koperasi Tani Dummy",
+      "title": "Asisten Lapangan",
+      "start": "2020-08",
+      "end": "2021-01",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Penjualan lapangan",
+    "Penyuluhan",
+    "Pengolahan data panen",
+    "Hubungan mitra",
+    "Microsoft Excel",
+    "Pelaporan wilayah"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

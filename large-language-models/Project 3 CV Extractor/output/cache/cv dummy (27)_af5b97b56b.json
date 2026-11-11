@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Kesehatan",
+      "level": "S1",
+      "major": "Farmasi",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Farmasi Sehat Dummy",
+      "title": "Medical Representative",
+      "start": "2022-03",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Mengunjungi 15 dokter dan apotek per minggu\nMencapai 108% dari target penjualan tahunan\nMenyampaikan informasi produk secara akurat dan sesuai regulasi\nMenyusun laporan kunjungan dan analisis wilayah"
+    },
+    {
+      "company": "Apotek Sehat Dummy",
+      "title": "Apoteker Pendamping Magang",
+      "start": "2020-07",
+      "end": "2020-10",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Pengetahuan produk farmasi",
+    "Presentasi produk",
+    "Manajemen wilayah",
+    "Hubungan pelanggan",
+    "Pelaporan penjualan",
+    "Microsoft Office"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

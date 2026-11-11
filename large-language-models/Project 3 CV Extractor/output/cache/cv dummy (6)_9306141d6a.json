@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Kesehatan Masyarakat",
+      "level": "S1",
+      "major": "Ilmu Gizi",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "RS Sehat Sentosa Dummy",
+      "title": "Ahli Gizi",
+      "start": "2022-02",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "RS Umum Dummy",
+      "title": "Magang Gizi Klinik",
+      "start": "2020-07",
+      "end": "2020-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Asesmen gizi",
+    "Penyusunan menu diet",
+    "Konseling gizi",
+    "Perhitungan kebutuhan energi",
+    "Rekam medis gizi",
+    "Microsoft Office"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

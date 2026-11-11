@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Bisnis dan Teknologi",
+      "level": "S1",
+      "major": "Bisnis Digital",
+      "graduation_year": 2023
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Platform Digital Dummy",
+      "title": "Product Operations Staff",
+      "start": "2023-09",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Mencatat dan memprioritaskan masukan pengguna untuk tim produk, melakukan pengujian fitur baru sebelum peluncuran, menyusun dokumentasi alur produk dan panduan pengguna, memantau metrik penggunaan aplikasi setiap minggu"
+    },
+    {
+      "company": "Startup Edutech Dummy",
+      "title": "Magang Operasional Produk",
+      "start": "2023-01",
+      "end": "2023-06",
+      "employment_type": null,
+      "summary": "Membantu pengujian aplikasi dan penyusunan laporan bug"
+    }
+  ],
+  "skills": [
+    "Pengujian fitur",
+    "Dokumentasi produk",
+    "Analisis metrik",
+    "Google Analytics",
+    "Jira dan Trello",
+    "Komunikasi lintas tim"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

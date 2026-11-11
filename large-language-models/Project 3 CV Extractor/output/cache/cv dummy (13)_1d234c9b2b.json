@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Bisnis dan Teknologi",
+      "level": "S1",
+      "major": "Bisnis Digital",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Dagang Daring Dummy",
+      "title": "E-Commerce Specialist",
+      "start": "2022-02",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "CV Belanja Pintar",
+      "title": "Admin Toko Daring",
+      "start": "2020-08",
+      "end": "2022-01",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Manajemen marketplace",
+    "Optimasi listing produk",
+    "Iklan marketplace",
+    "Analisis penjualan",
+    "Microsoft Excel",
+    "Layanan pelanggan"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

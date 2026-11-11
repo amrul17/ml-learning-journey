@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Sulawesi",
+      "level": "S1",
+      "major": "Pendidikan Bahasa Indonesia",
+      "graduation_year": 2023
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Media Kreatif Dummy",
+      "title": "Content Writer",
+      "start": "2023-09",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Menulis 20+ artikel per bulan dengan optimasi SEO, Meningkatkan trafik organik blog sebesar 45% dalam 10 bulan, Menyusun naskah konten media sosial dan email pemasaran, Menyunting tulisan anggota tim sebelum publikasi"
+    },
+    {
+      "company": "Portal Berita Dummy",
+      "title": "Penulis Magang",
+      "start": "2023-01",
+      "end": "2023-06",
+      "employment_type": null,
+      "summary": "Menulis berita ringan dan melakukan verifikasi data sederhana"
+    }
+  ],
+  "skills": [
+    "Penulisan artikel",
+    "SEO dasar",
+    "Penyuntingan",
+    "Riset topik",
+    "WordPress",
+    "Copywriting"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

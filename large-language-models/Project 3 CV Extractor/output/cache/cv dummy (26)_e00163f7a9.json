@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Kalimantan",
+      "level": "S1",
+      "major": "Teknik Sipil",
+      "graduation_year": 2020
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Konstruksi Nusa Dummy",
+      "title": "Admin Proyek",
+      "start": "2021-03",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Mengelola dokumen proyek, gambar kerja, dan korespondensi teknis\nMenyusun laporan progres mingguan dan bulanan\nMemantau pengadaan material dan jadwal pekerjaan\nMembantu penyusunan rencana anggaran biaya"
+    },
+    {
+      "company": "PT Bangun Persada Dummy",
+      "title": "Pengawas Lapangan Junior",
+      "start": "2020-09",
+      "end": "2021-02",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Administrasi proyek",
+    "AutoCAD dasar",
+    "Microsoft Project",
+    "Rencana anggaran biaya",
+    "Microsoft Excel",
+    "K3 dasar"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

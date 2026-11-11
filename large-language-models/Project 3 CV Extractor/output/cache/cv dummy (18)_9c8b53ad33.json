@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Diponegoro Utama",
+      "level": "S1",
+      "major": "Sastra Inggris",
+      "graduation_year": 2022
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Telekomunikasi Dummy",
+      "title": "Customer Service Officer",
+      "start": "2023-05",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Bank Dummy Nasional",
+      "title": "Customer Service Intern",
+      "start": "2021-08",
+      "end": "2021-11",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Layanan pelanggan",
+    "Penyelesaian masalah",
+    "Komunikasi efektif",
+    "Sistem tiket / helpdesk",
+    "Microsoft Office",
+    "Pengetahuan produk"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": null
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Menengah (aktif)"
+    }
+  ],
+  "extraction_notes": []
+}

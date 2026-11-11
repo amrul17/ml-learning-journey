@@ -1,0 +1,49 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Bisnis dan Teknologi",
+      "level": "S1",
+      "major": "Bisnis Digital",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Aplikasi Mandiri Dummy",
+      "title": "Business Development Staff",
+      "start": "2022-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Startup Fintech Dummy",
+      "title": "Business Development Intern",
+      "start": "2020-07",
+      "end": "2020-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Pengembangan kemitraan",
+    "Penyusunan proposal",
+    "Riset pasar",
+    "Presentasi bisnis",
+    "CRM",
+    "Microsoft Excel",
+    "Microsoft PowerPoint"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

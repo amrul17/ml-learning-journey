@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Kesehatan Surabaya",
+      "level": "S1",
+      "major": "Keperawatan",
+      "graduation_year": 2020
+    }
+  ],
+  "experiences": [
+    {
+      "company": "RS Mitra Sehat Dummy",
+      "title": "Perawat Pelaksana",
+      "start": "2021-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "RS Umum Daerah Dummy",
+      "title": "Praktik Klinik Keperawatan",
+      "start": "2019-08",
+      "end": "2019-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Asuhan keperawatan",
+    "Pemantauan tanda vital",
+    "Pemberian obat",
+    "Pencegahan infeksi",
+    "Dokumentasi keperawatan",
+    "Komunikasi terapeutik"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

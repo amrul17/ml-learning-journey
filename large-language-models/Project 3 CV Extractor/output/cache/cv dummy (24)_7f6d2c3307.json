@@ -1,0 +1,50 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Teknologi",
+      "level": "S1",
+      "major": "Sistem Informasi",
+      "graduation_year": 2023
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Solusi Teknologi Dummy",
+      "title": "IT Support",
+      "start": "2023-08",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Studio Digital Dummy",
+      "title": "Web Developer Intern",
+      "start": "2023-01",
+      "end": "2023-06",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Troubleshooting",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "SQL dasar",
+    "Jaringan komputer dasar",
+    "Git",
+    "Dokumentasi teknis"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

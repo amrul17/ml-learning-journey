@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Jakarta Raya",
+      "level": "S1",
+      "major": "Hukum",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Properti Utama Dummy",
+      "title": "Legal Staff",
+      "start": "2022-02",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Kantor Hukum Dummy & Partners",
+      "title": "Legal Intern",
+      "start": "2020-06",
+      "end": "2020-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Penyusunan kontrak",
+    "Riset hukum",
+    "Kepatuhan regulasi",
+    "Legal drafting",
+    "Microsoft Word",
+    "Negosiasi"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

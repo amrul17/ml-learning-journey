@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Bekasi",
+      "level": "S1",
+      "major": "Teknik Informatika",
+      "graduation_year": 2018
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Gudang Nusantara Dummy",
+      "title": "Supervisor Operasional",
+      "start": "2021-01",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Memimpin tim operasional beranggotaan 20 orang, Menurunkan keterlambatan pengiriman sebesar 25%, Menyusun jadwal kerja dan mengevaluasi kinerja tim, Menerapkan SOP baru yang meningkatkan efisiensi proses"
+    },
+    {
+      "company": "PT Gudang Nusantara Dummy",
+      "title": "Staf Operasional",
+      "start": "2018-08",
+      "end": "2020-12",
+      "employment_type": null,
+      "summary": "Memantau alur barang dan menyusun laporan operasional harian"
+    }
+  ],
+  "skills": [
+    "Kepemimpinan tim",
+    "Manajemen operasi",
+    "Perbaikan proses",
+    "Penjadwalan",
+    "Analisis kinerja",
+    "Microsoft Excel"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

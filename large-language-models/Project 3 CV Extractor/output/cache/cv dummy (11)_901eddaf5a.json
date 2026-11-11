@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Negeri Jakarta",
+      "level": "S1",
+      "major": "Ilmu Politik",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT Infrastruktur Negeri Dummy",
+      "title": "Government Relations Staff",
+      "start": "2022-03",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Kantor Anggota Dewan Dummy",
+      "title": "Asisten Staf Legislatif",
+      "start": "2020-08",
+      "end": "2022-02",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Analisis kebijakan",
+    "Penulisan siaran pers",
+    "Komunikasi pemangku kepentingan",
+    "Riset kebijakan",
+    "Presentasi",
+    "Microsoft Office"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

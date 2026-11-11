@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Pendidikan",
+      "level": "S1",
+      "major": "Pendidikan Matematika",
+      "graduation_year": 2022
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Bimbel Cerdas Dummy",
+      "title": "Tutor Matematika",
+      "start": "2022-09",
+      "end": "present",
+      "employment_type": null,
+      "summary": "Mengajar 35 siswa SMP dan SMA dalam kelas kecil dan privat, Meningkatkan rata-rata nilai ujian siswa sebesar 20%, Menyusun bahan ajar dan soal latihan, Melaporkan perkembangan belajar kepada orang tua setiap bulan"
+    },
+    {
+      "company": "SMA Negeri Dummy",
+      "title": "Guru Praktik Mengajar",
+      "start": "2021-08",
+      "end": "2021-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "Pengajaran matematika",
+    "Penyusunan bahan ajar",
+    "Pengajaran daring",
+    "Manajemen kelas",
+    "Evaluasi belajar",
+    "Komunikasi dengan orang tua"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}

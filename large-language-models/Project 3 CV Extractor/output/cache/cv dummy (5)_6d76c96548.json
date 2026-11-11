@@ -1,0 +1,48 @@
+{
+  "full_name": null,
+  "education": [
+    {
+      "institution": "Universitas Dummy Surakarta",
+      "level": "S1",
+      "major": "Matematika",
+      "graduation_year": 2021
+    }
+  ],
+  "experiences": [
+    {
+      "company": "PT E-Commerce Nusantara Dummy",
+      "title": "Data Analyst",
+      "start": "2022-02",
+      "end": "present",
+      "employment_type": null,
+      "summary": null
+    },
+    {
+      "company": "Startup Analitik Dummy",
+      "title": "Data Intern",
+      "start": "2021-07",
+      "end": "2021-12",
+      "employment_type": null,
+      "summary": null
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Python (pandas)",
+    "Looker Studio",
+    "Microsoft Excel",
+    "Statistika dasar",
+    "Visualisasi data"
+  ],
+  "languages": [
+    {
+      "language": "Bahasa Indonesia",
+      "level": "Native"
+    },
+    {
+      "language": "Bahasa Inggris",
+      "level": "Intermediate"
+    }
+  ],
+  "extraction_notes": []
+}
